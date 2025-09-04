@@ -35,12 +35,3 @@ It leverages **GPT-4.1** to generate customized technical interview questions, p
 - **Deployment**: Netlify  
 
 ---
-
-## 📂 Project Structure
-
-```bash
-RecruiterCallAI/
-│── src/            # Frontend React components
-│── public/         # Static assets
-│── package.json    # Dependencies and scripts
-│── README.md       # Project documentation
