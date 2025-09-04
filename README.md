@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 RecruiterCallAI is an **AI-powered technical interview preparation platform** that simulates realistic recruiter-style interviews.  
@@ -30,7 +31,16 @@ It leverages **GPT-4.1** to generate customized technical interview questions, p
 
 - **Frontend**: React + TailwindCSS + TypeScript  
 - **Backend/AI**: OpenAI API (GPT-4.1)  
+- **Database**: PostgreSQL (PL/pgSQL)  
 - **Deployment**: Netlify  
 
 ---
 
+## 📂 Project Structure
+
+```bash
+RecruiterCallAI/
+│── src/            # Frontend React components
+│── public/         # Static assets
+│── package.json    # Dependencies and scripts
+│── README.md       # Project documentation
